@@ -1,0 +1,52 @@
+.first{
+position: relative;
+display: inline-block;
+text-wrap:nowrap;
+}
+img{
+    width: 150%;
+    height: 10%;
+}
+
+h1{
+    padding-left: 45%;
+    padding-right: 10%;
+    display: flex;
+   
+}
+p{
+    padding-right: 0.5cm;
+}
+.sus{
+    padding-left: 3cm;
+    color:red;
+}
+.btn{
+   background-color: red;
+   color: white;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.overlay{
+    position: absolute;
+    top: 70px;
+    left:40px;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0);
+    padding: 10px;
+    display: flex;
+    
+}
